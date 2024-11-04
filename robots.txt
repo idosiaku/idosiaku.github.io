@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idosiaku.github.io/TNP/sitemap_index.txt
+Sitemap: https://idosiaku.github.io/jvy/sitemap_index.txt
+Sitemap: https://idosiaku.github.io/qSo/sitemap_index.txt
+Sitemap: https://idosiaku.github.io/vOc/sitemap_index.txt
